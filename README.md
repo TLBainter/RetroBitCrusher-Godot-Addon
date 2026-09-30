@@ -12,12 +12,16 @@ In Godot's _Audio_ panel, the _RetroBitCrush_ effect will be selectable from the
 
 ## Properties
 **Target Rate**: sample rate at which the audio is capped.
+
 **Bit Depth**: bits per sample.
+
 **Lowpass Cutoff**: cut off to minimize harsh sounds that result from real-time crushing.
 
 ## Recommended/Default Values
 **Target Rate**: 11025Hz
+
 **Bit Depth**: 16
+
 **Lowpass Cutoff**: 5500Hz
 
 # License
