@@ -24,12 +24,12 @@ In Godot's _Audio_ panel, the _RetroBitCrush_ effect will be selectable from the
 
 **Lowpass Cutoff**: 5500Hz
 
-# License
+## License
 This addon is released under Creative Commons with no attribution requirement. You are free to use it commercially or non-commercially without crediting me. If you do choose to credit me, I'd greatly appreciate it! You may do so with text such as:
 
-### RetroBitCrush Addon for Godot Created by T. L. Bainter
+#### RetroBitCrush Addon for Godot Created by T. L. Bainter
 
-Troubleshooting
+## Troubleshooting
 **Linux**: There is a known error that may cause the editor to crash on first load of this addon. Simply restart the editor after the crash and the problem should subside.
 
 **MacOS**: I have not been able to fully test this addon for MacOS, but the system should function the same way on MacOS as it does for Linux/Windows. Please let me know if you it works for you on MacOS so I can confirm!
